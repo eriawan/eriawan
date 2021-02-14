@@ -28,3 +28,5 @@ Here are fun facts about me:
 - 📫 How to reach me: at twitter @erikuma, or on LinkedIn search for my full name. or email eriawan at live dot com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to eat, read, and enjoy culinary prowess and variety of Indonesian food. I'm always lucky to enjoy this with my wife 😍
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eriawan)](https://github.com/ryo-ma/github-profile-trophy)
