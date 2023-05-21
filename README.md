@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 Welcome to Eriawan's GitHub profile page!
 
 Here are fun facts about me:
-- 🔭 I’m currently working on .NET Core 5.0, 6.0, and upcoming 7.0 thingy at night and weekend, and also doing .NET Fx and .NET Core at day time, and voluntering on .NET Foundation
+- 🔭 I’m currently working on .NET Core 6.0, 7.0, and upcoming 8.0 thingy at night and weekend, and also doing .NET Fx and .NET Core at day time, and voluntering on .NET Foundation
+- I enjoy contributing to .NET repositories, especially those dotnet/runtime, dotnet/winforms. and dotnet/sdk
 - ℹ I'm currently enjoying helping .NET OSS project repo to onboard on .NET Foundation, any question about onboarding .NET OSS project on .NET Foundation? Ask me or submit your question at https://github.com/dotnet-foundation/projects/issues 😊
 - 🌱 I’m currently learning F# on .NET Core
 - 👯 I’m looking to collaborate on developer communities around the world, particularly .NET dev community
